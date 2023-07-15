@@ -1,92 +1,62 @@
 # Frontend Mentor - Easybank landing page
 
+[Visit the website](https://easybank-landing-pcelman.vercel.app/)
+
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+This README provides an overview of the Project Name, detailing its purpose, components, and how to get started.
 
-Thanks for checking out this front-end coding challenge.
+- [Introduction](#introduction)
+- [Frontend Mentor Challenge](#frontend-mentor-challenge)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
+## Introduction
+Easybank is a web landing page that showcases a design from Frontend Mentor, built with HTML and CSS. The project uses CSS variables (custom properties) to make it easy to customize the color scheme and adapt it if necesary.
 
-## The challenge
+## Frontend Mentor Challenge
+This project was completed as part of a challenge from Frontend Mentor. Frontend Mentor is a platform that provides real-world front-end challenges for developers to improve their skills. The challenge involved building a responsive website template based on the design provided by Frontend Mentor.
 
-Your challenge is to build out this landing page and get it looking as close to the design as possible.
+## Technologies Used
+HTML
+CSS (including CSS variables)
+## Installation
+To get the project up and running on your local machine, follow these steps:
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Clone the repository to your local machine using Git or download the ZIP file directly.
 
-Your users should be able to:
+Navigate to the project directory on your machine and open the index.html file in your preferred web browser.
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
-## Where to find everything
+## Features
+Easybank landing comes with the following features:
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+Responsive Design: The website is fully responsive and adapts to different screen sizes, from mobile devices to desktops.
+Customizable Color Scheme: Easily customize the color scheme of the website using CSS variables.
+Single-Page Layout: The website is designed as a single-page layout.
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+## Contributing
+Contributions to Easybank landing are welcome! If you have any bug fixes, improvements, or new features to add, please follow these steps:
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+Fork the project repository.
 
-## Building your project
+Create a new branch for your contribution: git checkout -b feature/your-feature-name.
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+Make your changes and commit them with a descriptive commit message.
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+Push your changes to your forked repository: git push origin feature/your-feature-name.
 
-## Deploying your project
+Submit a pull request to the main repository.
 
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
+I will review your contribution, and if everything is fine, I will be merge it into the main branch.
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+## License
+The Project Name is open-source software licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial projects. Attribution is not required, but it's appreciated!
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
-
-## Create a custom `README.md`
-
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
-
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
-
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
-
-## Submitting your solution
-
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
-
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
-
-## Sharing your solution
-
-There are multiple places you can share your solution:
-
-1. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
-
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
-
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
-
-## Got feedback for us?
-
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
-
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
-
-**Have fun building!** 🚀
