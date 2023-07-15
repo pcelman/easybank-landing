@@ -58,5 +58,5 @@ Submit a pull request to the main repository.
 I will review your contribution, and if everything is fine, I will be merge it into the main branch.
 
 ## License
-The Project Name is open-source software licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial projects. Attribution is not required, but it's appreciated!
+Easybank landing is open-source software licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial projects. Attribution is not required, but it's appreciated!
 
